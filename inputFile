@@ -1,0 +1,11 @@
+$bash -f main.sh
+0, 234 inputFile
+1, 98 inputFile
+2, 67 inputFile
+3, 24 inputFile
+4, 34 inputFile
+5, 54 inputFile
+6, 74 inputFile
+7, 83 inputFile
+8, 60 inputFile
+9, 45 inputFile
