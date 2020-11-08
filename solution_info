@@ -1,0 +1,5 @@
+# pulled the images using "docker pull infracloudio/csvserver".
+# run that image on the container using "docker run infracloudio/csvserver".
+# while running the container got one error msg "2020/11/08 12:32:53 error while reading the file "/csvserver/inputdata": open /csvserver/inputdata: no such file or directory
+" reason for this error is inputFile is missing.
+# then i write shell script for inpute file which is in branch name as "gencsv" and "InputFile".
